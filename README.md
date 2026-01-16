@@ -1,68 +1,39 @@
-# Título do projeto
+# Telemarketing Project 📊📞
 
-Um simples resumo do uso/propósito do projeto.
+Aplicação interativa para análise de campanhas de telemarketing bancário, permitindo filtros dinâmicos e visualização de métricas de aceite.
 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Este projeto tem como objetivo analisar dados de campanhas de telemarketing utilizando **Python, Pandas e Streamlit**, permitindo ao usuário aplicar filtros personalizados (idade, profissão, estado civil, tipo de contato, etc.) e visualizar como essas variáveis impactam a taxa de aceite dos clientes.
 
+A aplicação foi desenvolvida com foco em **Data Analysis**, **Data Visualization** e **boas práticas de engenharia de dados**, incluindo cache, organização de código e exportação de resultados.
 
-### Link para a aplicação (LIVE)
+### 🔗 Link para a aplicação (LIVE)
 
-https://telemarketing-project.onrender.com/
+👉 https://telemarketing-project.onrender.com/
 
+---
 
 ## Utilização
 
-### Dependencias
+### Dependências
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+- Python **3.10+**
+- Bibliotecas principais:
+  - pandas
+  - streamlit
+  - seaborn
+  - matplotlib
+  - pillow
+  - xlsxwriter
+
+Sistema operacional:
+- Windows, Linux ou macOS
+
+---
 
 ### Instalação
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
-
-### Executando o projeto
-
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
-
-## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
-
-## Autores
-
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
-
-## Histórico de versões.
-
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
-    * Primeira versão
-
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
-
-## Fontes de inspiração
-
-Inspiração, trechos de códigos utilizados, etc.
-* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+1. Clone o repositório:
+```bash
+git clone https://github.com/RennanRnz/telemarketing-project.git
